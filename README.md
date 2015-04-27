@@ -1,3 +1,4 @@
+#USE OF THIS PACKAGE IS NO LONGER RECOMMENDED. PLEASE USE TITANIUM ALLOY FRAMEWORK INSTEAD. THIS REPO IS SCHEDULED FOR DELETION.
 Appcelerator Titanium Mobile MVC
 ============================================================
 
